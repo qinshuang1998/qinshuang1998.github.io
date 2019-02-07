@@ -1,0 +1,13 @@
+https://www.qugcloud.cn/2019/02/06/function-coding-02/
+https://www.qugcloud.cn/2019/02/06/function-coding-01/
+https://www.qugcloud.cn/2019/02/04/design-pattern-02/
+https://www.qugcloud.cn/2019/02/03/design-pattern-01/
+https://www.qugcloud.cn/2018/09/08/java-packet-rename/
+https://www.qugcloud.cn/2018/07/29/mysql-sql-injection/
+https://www.qugcloud.cn/2018/07/27/csharp-event/
+https://www.qugcloud.cn/2018/05/19/firewall-pwd/
+https://www.qugcloud.cn/2018/04/19/csrf-details/
+https://www.qugcloud.cn/2018/02/19/popping-14-el/
+https://www.qugcloud.cn/2018/01/19/mysql-primary-key/
+https://www.qugcloud.cn/2017/12/19/php-code-read/
+https://www.qugcloud.cn/2017/11/19/url-encoding/
