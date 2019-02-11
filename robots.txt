@@ -8,6 +8,7 @@ Disallow: /css/
 Disallow: /img/
 Disallow: /google4d83271d7569beeb.html
 Disallow: /baidu_urls.txt
+Disallow: /sogousiteverification.txt
 
 Sitemap: https://www.qugcloud.cn/sitemap.xml
 Sitemap: https://www.qugcloud.cn/baidusitemap.xml
