@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.qugcloud.cn/2019/02/13/mysql-article-01/</loc>
+    
+    <lastmod>2019-02-14T09:24:26.367Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qugcloud.cn/2018/01/19/mysql-primary-key/</loc>
+    
+    <lastmod>2019-02-13T15:05:22.607Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.qugcloud.cn/2019/02/12/java-progress-03/</loc>
     
     <lastmod>2019-02-12T13:16:07.018Z</lastmod>
@@ -103,13 +117,6 @@
     <loc>https://www.qugcloud.cn/2018/07/27/csharp-event/</loc>
     
     <lastmod>2019-01-31T09:51:32.295Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.qugcloud.cn/2018/01/19/mysql-primary-key/</loc>
-    
-    <lastmod>2019-01-31T09:50:32.205Z</lastmod>
     
   </url>
   
