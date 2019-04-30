@@ -1,3 +1,4 @@
+https://www.qugcloud.cn/2019/04/30/java-latch-virtual/
 https://www.qugcloud.cn/2019/04/01/system-lru/
 https://www.qugcloud.cn/2019/03/31/sort/
 https://www.qugcloud.cn/2019/02/16/java-progress-04/
