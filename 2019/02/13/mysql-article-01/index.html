@@ -20,10 +20,10 @@
 <p>存储过程插入挺慢呀，我插入1W行用了35秒</p>
 <p>然后先看下面原始的limit语句执行分析</p>
 <p><code>EXPLAIN SELECT * FROM test LIMIT 9990,10;</code></p>
-<p><img src="https://ws1.sinaimg.cn/large/da6b1b7dgy1g06zanikroj20pf048q30.jpg" alt=""></p>
+<p><img src="http://ws1.sinaimg.cn/large/da6b1b7dgy1g06zanikroj20pf048q30.jpg" alt=""></p>
 <p>然后使用延迟关联。先快速定位需要获取的id段，然后再自关联或join关联</p>
 <p><code>EXPLAIN SELECT * FROM test a, (SELECT id FROM test LIMIT 9990,10) b WHERE a.id=b.id;</code></p>
-<p><img src="https://ws1.sinaimg.cn/large/da6b1b7dgy1g06zm37vm8j20ty05amya.jpg" alt=""></p>
+<p><img src="http://ws1.sinaimg.cn/large/da6b1b7dgy1g06zm37vm8j20ty05amya.jpg" alt=""></p>
 <p>可以看到使用了覆盖索引，不是全表扫描了</p>
 <blockquote>
 <p>MySQL并不是跳过offset行，而是取offset+N行，然后返回放弃前offset行。返回N行。那当offset特别大的时候，效率就非常的低下，要么控制返回的总页数，要么对超过特定阈值的页数进行SQL改写。</p>

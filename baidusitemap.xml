@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.qugcloud.cn/2019/02/06/function-coding-02/</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>  <url>
+    <loc>https://www.qugcloud.cn/2019/02/13/mysql-article-01/</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>  <url>
+    <loc>https://www.qugcloud.cn/2019/02/09/java-progress-01/</loc>
+    <lastmod>2019-05-20</lastmod>
+  </url>  <url>
     <loc>https://www.qugcloud.cn/2019/05/20/java-snowflake/</loc>
     <lastmod>2019-05-20</lastmod>
   </url>  <url>
@@ -40,16 +49,10 @@
     <loc>https://www.qugcloud.cn/2018/01/19/mysql-primary-key/</loc>
     <lastmod>2019-03-31</lastmod>
   </url>  <url>
-    <loc>https://www.qugcloud.cn/2019/02/13/mysql-article-01/</loc>
-    <lastmod>2019-03-31</lastmod>
-  </url>  <url>
     <loc>https://www.qugcloud.cn/2019/02/08/java-md5/</loc>
     <lastmod>2019-03-31</lastmod>
   </url>  <url>
     <loc>https://www.qugcloud.cn/2019/02/11/java-progress-02/</loc>
-    <lastmod>2019-03-31</lastmod>
-  </url>  <url>
-    <loc>https://www.qugcloud.cn/2019/02/09/java-progress-01/</loc>
     <lastmod>2019-03-31</lastmod>
   </url>  <url>
     <loc>https://www.qugcloud.cn/2019/02/12/java-progress-03/</loc>
@@ -59,9 +62,6 @@
     <lastmod>2019-03-31</lastmod>
   </url>  <url>
     <loc>https://www.qugcloud.cn/2019/02/06/function-coding-01/</loc>
-    <lastmod>2019-03-31</lastmod>
-  </url>  <url>
-    <loc>https://www.qugcloud.cn/2019/02/06/function-coding-02/</loc>
     <lastmod>2019-03-31</lastmod>
   </url>  <url>
     <loc>https://www.qugcloud.cn/2019/02/07/function-coding-03/</loc>

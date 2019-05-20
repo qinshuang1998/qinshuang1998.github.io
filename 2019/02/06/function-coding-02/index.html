@@ -41,7 +41,7 @@
 <p>我是匿名内部类</p>
 </blockquote>
 <p>很奇怪，接口怎么能被new？其实这是个编译器提供的语法糖，在编译期间隐式的创建了一个匿名内部类，这个类implements了test接口，并且由我们重写了接口的show()方法，这里可以使用eclipse来看一下生成的class文件就知道了</p>
-<p><img src="https://ww1.sinaimg.cn/large/da6b1b7dgy1g06z6gufqxj20fz0df3za.jpg" alt=""></p>
+<p><img src="http://ww1.sinaimg.cn/large/da6b1b7dgy1g06z6gufqxj20fz0df3za.jpg" alt=""></p>
 <p>很明显的多出了一个Main$1的类，这就是编译器给我们隐式创建的匿名类。</p>
 <p>4.静态内部类也是定义在另一个类里面的类，只不过在类的前面多了一个关键字static。静态内部类是不需要依赖于外部类的，这点和类的静态成员属性有点类似，并且它不能使用外部类的非static成员变量或者方法，这点很好理解，因为在没有外部类的对象的情况下，可以创建静态内部类的对象，如果允许访问外部类的非static成员就会产生矛盾，因为外部类的非static成员必须依附于具体的对象。</p>
 <p>所以我们可以直接通过外部类类名来实例化一个内部类，不想刚开始必须先实例化外部类才行</p>

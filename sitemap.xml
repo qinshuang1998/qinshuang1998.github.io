@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.qugcloud.cn/2019/02/06/function-coding-02/</loc>
+    
+    <lastmod>2019-05-20T13:42:54.879Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qugcloud.cn/2019/02/13/mysql-article-01/</loc>
+    
+    <lastmod>2019-05-20T13:42:24.177Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qugcloud.cn/2019/02/09/java-progress-01/</loc>
+    
+    <lastmod>2019-05-20T13:42:08.906Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.qugcloud.cn/2019/05/20/java-snowflake/</loc>
     
-    <lastmod>2019-05-20T13:37:46.536Z</lastmod>
+    <lastmod>2019-05-20T13:41:45.334Z</lastmod>
     
   </url>
   
@@ -93,13 +114,6 @@
   </url>
   
   <url>
-    <loc>https://www.qugcloud.cn/2019/02/13/mysql-article-01/</loc>
-    
-    <lastmod>2019-03-31T06:33:17.383Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.qugcloud.cn/2019/02/08/java-md5/</loc>
     
     <lastmod>2019-03-31T06:33:08.581Z</lastmod>
@@ -110,13 +124,6 @@
     <loc>https://www.qugcloud.cn/2019/02/11/java-progress-02/</loc>
     
     <lastmod>2019-03-31T06:33:01.180Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.qugcloud.cn/2019/02/09/java-progress-01/</loc>
-    
-    <lastmod>2019-03-31T06:32:53.163Z</lastmod>
     
   </url>
   
@@ -138,13 +145,6 @@
     <loc>https://www.qugcloud.cn/2019/02/06/function-coding-01/</loc>
     
     <lastmod>2019-03-31T06:31:54.321Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.qugcloud.cn/2019/02/06/function-coding-02/</loc>
-    
-    <lastmod>2019-03-31T06:31:26.386Z</lastmod>
     
   </url>
   
