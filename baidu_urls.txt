@@ -1,3 +1,4 @@
+https://www.qugcloud.cn/2019/05/20/java-snowflake/
 https://www.qugcloud.cn/2019/05/12/java-product-consumer/
 https://www.qugcloud.cn/2019/04/30/java-latch-virtual/
 https://www.qugcloud.cn/2019/04/01/system-lru/
