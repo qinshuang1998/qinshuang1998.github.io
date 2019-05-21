@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.qugcloud.cn/2019/05/20/java-snowflake/</loc>
+    
+    <lastmod>2019-05-21T05:29:33.232Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.qugcloud.cn/2019/02/06/function-coding-02/</loc>
     
     <lastmod>2019-05-20T13:42:54.879Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://www.qugcloud.cn/2019/02/09/java-progress-01/</loc>
     
     <lastmod>2019-05-20T13:42:08.906Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.qugcloud.cn/2019/05/20/java-snowflake/</loc>
-    
-    <lastmod>2019-05-20T13:41:45.334Z</lastmod>
     
   </url>
   
