@@ -1,4 +1,5 @@
 https://www.qugcloud.cn/2019/08/18/apache-flink-01/
+https://www.qugcloud.cn/2019/08/16/mysql-article-03/
 https://www.qugcloud.cn/2019/08/16/mysql-article-02/
 https://www.qugcloud.cn/2019/05/20/java-snowflake/
 https://www.qugcloud.cn/2019/05/12/java-product-consumer/
