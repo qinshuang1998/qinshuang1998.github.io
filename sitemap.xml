@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.qugcloud.cn/2019/11/21/k8s-01/</loc>
+    
+    <lastmod>2019-11-21T06:32:45.878Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qugcloud.cn/2019/11/21/docker-01/</loc>
+    
+    <lastmod>2019-11-21T05:09:31.372Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.qugcloud.cn/2019/09/23/shiro-tomcat-memory-leak/</loc>
     
     <lastmod>2019-09-23T03:38:04.182Z</lastmod>
