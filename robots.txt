@@ -9,5 +9,5 @@ Disallow: /img/
 Disallow: /google4d83271d7569beeb.html
 Disallow: /*.txt$
 
-Sitemap: https://www.qugcloud.cn/sitemap.xml
-Sitemap: https://www.qugcloud.cn/baidusitemap.xml
+Sitemap: https://qinshuang1998.github.io/sitemap.xml
+Sitemap: https://qinshuang1998.github.io/baidusitemap.xml
